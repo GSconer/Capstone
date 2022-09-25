@@ -6,7 +6,7 @@
 		"PlantVitamins" : "A,B,C,E",
 		"PlantMinerals" : "Zinc, Potassium",
 		"PlantPharmaProps" : "Anti-fertility, anti-oxidant, anti-diabetic",
-		"PlantDesc":"Easy",
+		"PlantDesc":"Beautiful purple flower nettle that just doesn't die.",
 		"id" : 1
 	},
 	{
@@ -16,7 +16,7 @@
 		"PlantVitamins" : "A,B,C,K",
 		"PlantMinerals" : "Calcium, Iron, Magnesium, Phosphorus, Potassium, Sodium",
 		"PlantPharmaProps" : "Anti-inflamation, anti-oxidant, Neurological pain, athritis",
-		"PlantDesc":"Easy",
+		"PlantDesc":"For an annoying plant, has a lot of impressive qualities.",
 		"id" : 2
 	},
 	{
@@ -68,5 +68,25 @@
 		"PlantPharmaProps" : "Anti-cholesterol, Anti-inflammatory, anti-stress, anti-neuroinflammatory",
 		"PlantDesc":"Easy",
 		"id" : 7
+	},
+	{
+		"PlantIMGURL" : "https://www.mayernikkitchen.com/pub/herb-images/20200716094801_Calendula.jpg",
+		"PlantCName" : "Calendula",
+		"PlantLName" : "Calendula officinalis",
+		"PlantVitamins" : "A",
+		"PlantMinerals" : " Magnesium, Selenium, Zinc, Copper",
+		"PlantPharmaProps" : "Anti-inflammatory, Anti-viral",
+		"PlantDesc":"A pretty plant used mainly for viral infections",
+		"id" : 8
+	},
+	{
+		"PlantIMGURL" : "https://www.nature-and-garden.com/wp-content/uploads/sites/4/2018/08/dandelion.jpg",
+		"PlantCName" : "Dandelion",
+		"PlantLName" : "Taraxacum",
+		"PlantVitamins" : "D,",
+		"PlantMinerals" : " Magnesium, Zinc",
+		"PlantPharmaProps" : "Laxitive, Diuretic",
+		"PlantDesc":"A very common plant with impressive qualities",
+		"id" : 9
 	}
 ]
